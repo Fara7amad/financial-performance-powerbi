@@ -1,0 +1,16 @@
+AccountKey,AccountName,Category,AccountType,SubType
+101,Product Revenue,Revenue,Revenue,Income
+102,Service Revenue,Revenue,Revenue,Income
+103,Subscription Revenue,Revenue,Revenue,Income
+201,Salaries & Wages,Personnel,Expense,Operating
+202,Benefits & Insurance,Personnel,Expense,Operating
+203,Office Rent,Facilities,Expense,Operating
+204,Utilities,Facilities,Expense,Operating
+205,Software Licenses,Technology,Expense,Operating
+206,Hardware & Equipment,Technology,Expense,Operating
+207,Marketing & Ads,Marketing,Expense,Operating
+208,Travel & Expenses,G&A,Expense,Operating
+209,Professional Services,G&A,Expense,Operating
+210,Training & Dev,Personnel,Expense,Operating
+211,Depreciation,Non-Cash,Expense,Operating
+212,Miscellaneous,G&A,Expense,Operating

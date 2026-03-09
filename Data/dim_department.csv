@@ -1,0 +1,8 @@
+DepartmentKey,DepartmentName,Region,ManagerName,CostCenter
+1,Sales,North America,Sarah Johnson,Revenue
+2,Marketing,North America,David Chen,Expense
+3,Engineering,Europe,Priya Patel,Expense
+4,Operations,Asia Pacific,James Okafor,Expense
+5,Finance,North America,Maria Lopez,Expense
+6,Human Resources,Europe,Tom Williams,Expense
+7,Customer Success,Asia Pacific,Aiko Tanaka,Expense
