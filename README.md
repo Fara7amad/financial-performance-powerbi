@@ -15,7 +15,7 @@ Data:
 
 
 Full Tutorial:
-
+https://medium.com/@farahabuhamad/learn-power-bi-complete-beginner-tutorial-5520b7116df5 
 
 ## 📸 Dashboard Screenshots
 
